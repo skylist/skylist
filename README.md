@@ -25,6 +25,7 @@ Nowadays I'm working on frontend web applications focused on food market and del
 
 ## Main stack
 
+<div style="display: flex; gap: 8px;">
 <div style="display: inline-flex;background-color: white; border-radius: 50%; padding: 8px">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="32" width="32"/>
 </div>
@@ -45,6 +46,7 @@ Nowadays I'm working on frontend web applications focused on food market and del
 </div>
 <div style="display: inline-flex;background-color: white; border-radius: 50%; padding: 8px">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" width="32"/>
+</div>
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skylist&theme=react&show_icons=true&hide_border=true&layout=compact" width="100%">
