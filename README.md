@@ -27,25 +27,25 @@ Nowadays I'm working on frontend web applications focused on food market and del
 
 <div style="display: flex; gap: 8px;">
 <div style="display: inline-flex;background-color: white; border-radius: 50%; padding: 8px">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="32" width="32"/>
+<img loading="lazy" style="display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="32" width="32"/>
 </div>
 <div style="display: inline-flex;background-color: white; border-radius: 50%; padding: 8px">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="32" width="32"/>
+<img loading="lazy" style="display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="32" width="32"/>
 </div>
 <div style="display: inline-flex;background-color: white; border-radius: 50%; padding: 8px">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="32" width="32"/>
+<img loading="lazy" style="display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="32" width="32"/>
 </div>
 <div style="display: inline-flex;background-color: white; border-radius: 50%; padding: 8px">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="32" width="32"/>
+<img loading="lazy" style="display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="32" width="32"/>
 </div>
 <div style="display: inline-flex;background-color: white; border-radius: 50%; padding: 8px">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="32" width="32"/>
+<img loading="lazy" style="display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="32" width="32"/>
 </div>
 <div style="display: inline-flex;background-color: white; border-radius: 50%; padding: 8px">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="32" width="32"/>
+<img loading="lazy" style="display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="32" width="32"/>
 </div>
 <div style="display: inline-flex;background-color: white; border-radius: 50%; padding: 8px">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" width="32"/>
+<img loading="lazy" style="display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" width="32"/>
 </div>
 </div>
 
